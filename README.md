@@ -1,2 +1,2 @@
-# HistoryProject
-AI powered History Simulator
+# StarWarsProject
+AI powered Star Wars Simulator
